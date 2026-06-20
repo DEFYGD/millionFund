@@ -128,7 +128,8 @@ function fetchFundNetValue(code) {
                         const trend = JSON.parse(match[1])
                         if (trend.length > 0) {
                             const latest = trend[trend.length - 1]
-                            const fundName = data.match(/fS_name\s*=\s*['"]([^'"]+)['"]/) ? .[1] || ''
+                            const fundNameMatch = data.match(/fS_name\s*=\s*['"]([^'"]+)['"]/)
+                            const fundName = fundNameMatch ? fundNameMatch[1] : ''
                             resolve({
                                 netValue: latest.y,
                                 date: latest.x ? new Date(latest.x).toISOString().split('T')[0] : '',
