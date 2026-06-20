@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-06-20T04:55:56.069Z",
+  "exportDate": "2026-06-20T04:55:03.218Z",
   "source": "3张基金列表图片",
   "fundCount": 23,
   "holdings": [
@@ -12,7 +12,7 @@
       "buyDate": "2026-06-18 15:00",
       "holdingDays": 0,
       "industrySectors": "证券",
-      "createdAt": 1781931345849,
+      "createdAt": 1781931292217,
       "source": "image-ocr",
       "isQDII": false
     },
@@ -24,7 +24,7 @@
       "buyDate": "2026-06-18 15:00",
       "holdingDays": 0,
       "industrySectors": "光伏",
-      "createdAt": 1781931346324,
+      "createdAt": 1781931292666,
       "source": "image-ocr",
       "isQDII": false
     },
@@ -36,7 +36,7 @@
       "buyDate": "",
       "holdingDays": 0,
       "industrySectors": "香港科技",
-      "createdAt": 1781931346859,
+      "createdAt": 1781931293112,
       "source": "image-ocr",
       "isQDII": true
     },
@@ -48,7 +48,7 @@
       "buyDate": "2026-06-18 15:00",
       "holdingDays": 0,
       "industrySectors": "港股科技",
-      "createdAt": 1781931347321,
+      "createdAt": 1781931293597,
       "source": "image-ocr",
       "isQDII": false
     },
@@ -60,7 +60,7 @@
       "buyDate": "2026-06-18 15:00",
       "holdingDays": 0,
       "industrySectors": "电池",
-      "createdAt": 1781931347711,
+      "createdAt": 1781931293983,
       "source": "image-ocr",
       "isQDII": false
     },
@@ -72,7 +72,7 @@
       "buyDate": "2026-06-18 15:00",
       "holdingDays": 0,
       "industrySectors": "医疗器械",
-      "createdAt": 1781931348170,
+      "createdAt": 1781931294471,
       "source": "image-ocr",
       "isQDII": false
     },
@@ -84,7 +84,7 @@
       "buyDate": "2026-06-18 15:00",
       "holdingDays": 0,
       "industrySectors": "锂矿",
-      "createdAt": 1781931348557,
+      "createdAt": 1781931294907,
       "source": "image-ocr",
       "isQDII": false
     },
@@ -96,7 +96,7 @@
       "buyDate": "2026-06-18 15:00",
       "holdingDays": 0,
       "industrySectors": "",
-      "createdAt": 1781931349041,
+      "createdAt": 1781931295349,
       "source": "image-ocr",
       "isQDII": false
     },
@@ -108,7 +108,7 @@
       "buyDate": "2026-06-18 15:00",
       "holdingDays": 0,
       "industrySectors": "",
-      "createdAt": 1781931349494,
+      "createdAt": 1781931295829,
       "source": "image-ocr",
       "isQDII": false
     },
@@ -120,7 +120,7 @@
       "buyDate": "2026-06-18 15:00",
       "holdingDays": 0,
       "industrySectors": "",
-      "createdAt": 1781931349948,
+      "createdAt": 1781931296311,
       "source": "image-ocr",
       "isQDII": false
     },
@@ -132,7 +132,7 @@
       "buyDate": "2026-06-18 15:00",
       "holdingDays": 0,
       "industrySectors": "申万有色",
-      "createdAt": 1781931350335,
+      "createdAt": 1781931296830,
       "source": "image-ocr",
       "isQDII": false
     },
@@ -144,7 +144,7 @@
       "buyDate": "2026-06-18 15:00",
       "holdingDays": 0,
       "industrySectors": "大盘股",
-      "createdAt": 1781931350795,
+      "createdAt": 1781931297291,
       "source": "image-ocr",
       "isQDII": false
     },
@@ -156,7 +156,7 @@
       "buyDate": "2026-06-18 15:00",
       "holdingDays": 0,
       "industrySectors": "商业航天",
-      "createdAt": 1781931351273,
+      "createdAt": 1781931297722,
       "source": "image-ocr",
       "isQDII": false
     },
@@ -168,7 +168,7 @@
       "buyDate": "2026-06-18 15:00",
       "holdingDays": 0,
       "industrySectors": "脑机接口",
-      "createdAt": 1781931351753,
+      "createdAt": 1781931298179,
       "source": "image-ocr",
       "isQDII": false
     },
@@ -180,7 +180,7 @@
       "buyDate": "2026-06-18 15:00",
       "holdingDays": 0,
       "industrySectors": "工业有色",
-      "createdAt": 1781931352192,
+      "createdAt": 1781931298608,
       "source": "image-ocr",
       "isQDII": false
     },
@@ -192,7 +192,7 @@
       "buyDate": "2026-06-18 15:00",
       "holdingDays": 0,
       "industrySectors": "工业有色",
-      "createdAt": 1781931352636,
+      "createdAt": 1781931299088,
       "source": "image-ocr",
       "isQDII": false
     },
@@ -204,7 +204,7 @@
       "buyDate": "2026-06-18 15:00",
       "holdingDays": 0,
       "industrySectors": "机器人",
-      "createdAt": 1781931353108,
+      "createdAt": 1781931299614,
       "source": "image-ocr",
       "isQDII": false
     },
@@ -216,7 +216,7 @@
       "buyDate": "2026-06-18 15:00",
       "holdingDays": 0,
       "industrySectors": "稀有金属",
-      "createdAt": 1781931353549,
+      "createdAt": 1781931300117,
       "source": "image-ocr",
       "isQDII": false
     },
@@ -228,7 +228,7 @@
       "buyDate": "2026-06-18 15:00",
       "holdingDays": 0,
       "industrySectors": "半导体材料",
-      "createdAt": 1781931353936,
+      "createdAt": 1781931300572,
       "source": "image-ocr",
       "isQDII": false
     },
@@ -240,7 +240,7 @@
       "buyDate": "2026-06-18 15:00",
       "holdingDays": 0,
       "industrySectors": "CPO",
-      "createdAt": 1781931354360,
+      "createdAt": 1781931301028,
       "source": "image-ocr",
       "isQDII": false
     },
@@ -252,7 +252,7 @@
       "buyDate": "2026-06-18 15:00",
       "holdingDays": 0,
       "industrySectors": "CPO",
-      "createdAt": 1781931354797,
+      "createdAt": 1781931301619,
       "source": "image-ocr",
       "isQDII": false
     },
@@ -264,7 +264,7 @@
       "buyDate": "2026-06-18 15:00",
       "holdingDays": 0,
       "industrySectors": "高端制造",
-      "createdAt": 1781931355274,
+      "createdAt": 1781931302413,
       "source": "image-ocr",
       "isQDII": false
     },
@@ -276,7 +276,7 @@
       "buyDate": "2026-06-18 15:00",
       "holdingDays": 0,
       "industrySectors": "国产算力",
-      "createdAt": 1781931355719,
+      "createdAt": 1781931302867,
       "source": "image-ocr",
       "isQDII": false
     }
